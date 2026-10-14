@@ -1,0 +1,18 @@
+# Compiled executables
+/server
+/diag
+/diag_dashboard
+/server_san
+/diag_san
+/test_health
+/test_health_san
+
+# Runtime output
+/diagnostics.log
+/report.txt
+
+# Local configuration
+/config.json
+
+# Editor files
+.vscode/

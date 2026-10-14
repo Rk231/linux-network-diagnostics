@@ -1,0 +1,18 @@
+
+{
+  "check_interval_seconds": 5,
+  "targets": [
+    {
+      "name": "local-server",
+      "host": "127.0.0.1",
+      "port": 5000,
+      "timeout_ms": 2000
+    },
+    {
+      "name": "closed-port-test",
+      "host": "127.0.0.1",
+      "port": 5999,
+      "timeout_ms": 2000
+    }
+  ]
+}
